@@ -114,7 +114,7 @@ class MyHomePage extends StatelessWidget {
                   );
                 },
                 child: Container(
-                  height: 150,
+                  height:250,
                   color: Colors.grey,
                   child: Image.network(
                     imageLinks[index],
